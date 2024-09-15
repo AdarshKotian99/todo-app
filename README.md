@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# TODO App is a react application using REDUX TOOLKIT
+
+[LIVE DEMO](https://adarshkotian99.github.io/todo-app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
